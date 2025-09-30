@@ -100,6 +100,36 @@
             "name": "Lagos-Aonda",
             "type": "http",
             "url": "https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp"
+        },
+        {
+            "name": "Guimabus",
+            "type": "http",
+            "url": "https://map.mobility.ubiwhere.com/dataset/ee6d46e4-9f19-4f4a-ab93-1a3cd69df349/resource/08f1ee6c-2d3f-4fb3-a861-5d6fb347a6d4/download/gtfs_gui.zip"
+        },
+        {
+            "name": "TUBA",
+            "type": "http",
+            "url": "https://map.mobility.ubiwhere.com/dataset/1842a15c-1aec-4f65-8e29-e57c8b4cbd74/resource/a595ee4b-bf86-4323-b1f4-7e3b3eb00e5e/download/gtfs_bar.zip"
+        },
+        {
+            "name": "Mobiave",
+            "type": "http",
+            "url": "https://map.mobility.ubiwhere.com/dataset/fe6015e4-86c7-437a-8d31-10759fe21a1d/resource/7ac67ef8-015c-42e8-9546-f6f0be956270/download/gtfs_vnf.zip"
+        },
+        {
+            "name": "Metro_Sul_do_Tejo",
+            "type": "http",
+            "url": "https://mts.pt/imt/MTS-20240129.zip"
+        },
+        {
+            "name": "Metro_do_Porto",
+            "type": "http",
+            "url": "https://www.metrodoporto.pt/metrodoporto/uploads/document/file/693/google_transit_v2.zip"
+        },
+        {
+            "name": "RDL_RODOVIÁRIA_DO_LIS",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1NqcOk8IrlV73TBonJAxpzIUTjaAjF27M"
         }
     ]
 }
