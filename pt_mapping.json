@@ -1,0 +1,99 @@
+{
+  "pt_Albufeira-Giro.zip": {
+    "prefix": 0,
+    "download_url": "https://drive.google.com/uc?export=download&id=1tkKV40lQlFcLiJhq8SwZQdxNVjFclRCA",
+    "gtfs_rt": null
+  },
+  "pt_Algarve-Vamus.zip": {
+    "prefix": 1,
+    "download_url": "https://drive.google.com/uc?export=download&id=1CM8O4ndsfSJhka42SxFUZ9eB-wE10NqX",
+    "gtfs_rt": null
+  },
+  "pt_Apanha-me.zip": {
+    "prefix": 2,
+    "download_url": "https://drive.google.com/uc?export=download&id=1w92h129CWNSoImBRZQOWT6KRPzSFwJ42",
+    "gtfs_rt": null
+  },
+  "pt_Autna.zip": {
+    "prefix": 3,
+    "download_url": "https://drive.google.com/uc?export=download&id=1gah1x10RyFu7gJPweBcCXPd9vcFJFQ7c",
+    "gtfs_rt": null
+  },
+  "pt_Barreiro.zip": {
+    "prefix": 4,
+    "download_url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip",
+    "gtfs_rt": null
+  },
+  "pt_Carris-Metropolitana.zip": {
+    "prefix": 5,
+    "download_url": "https://api.carrismetropolitana.pt/gtfs",
+    "gtfs_rt": null
+  },
+  "pt_Carris.zip": {
+    "prefix": 6,
+    "download_url": "https://gateway.carris.pt/gateway/gtfs/api/v2.8/GTFS",
+    "gtfs_rt": null
+  },
+  "pt_Cascais-Próxima.zip": {
+    "prefix": 7,
+    "download_url": "https://drive.google.com/uc?export=download&id=13ucYiAJRtu-gXsLa02qKJrGOgDjbnUWX",
+    "gtfs_rt": null
+  },
+  "pt_Comboios-de-Portugal(CP).zip": {
+    "prefix": 8,
+    "download_url": "https://publico.cp.pt/gtfs/gtfs.zip",
+    "gtfs_rt": [
+      "https://rt.gtfs.baguette.pirnet.si/gtfs-rt/cp/trip_updates.pb"
+    ]
+  },
+  "pt_Faro.zip": {
+    "prefix": 9,
+    "download_url": "https://drive.google.com/uc?export=download&id=1xNHjM7yl-SS1jCkGrvIBBlOhUkFfNBjY",
+    "gtfs_rt": null
+  },
+  "pt_Fergatus.zip": {
+    "prefix": 10,
+    "download_url": "https://www.fertagus.pt/GTFSTMLzip/Fertagus_GTFS.zip",
+    "gtfs_rt": null
+  },
+  "pt_Funchal.zip": {
+    "prefix": 11,
+    "download_url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip",
+    "gtfs_rt": null
+  },
+  "pt_Lagos-Aonda.zip": {
+    "prefix": 12,
+    "download_url": "https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp",
+    "gtfs_rt": null
+  },
+  "pt_Metro-Lisboa.zip": {
+    "prefix": 13,
+    "download_url": "https://www.metrolisboa.pt/google_transit/googleTransit.zip",
+    "gtfs_rt": null
+  },
+  "pt_Olhao.zip": {
+    "prefix": 14,
+    "download_url": "https://drive.google.com/uc?export=download&id=1X5uXAYJ5ItxMhrnDZSz3v9-U3kgL6QbJ",
+    "gtfs_rt": null
+  },
+  "pt_Portimao.zip": {
+    "prefix": 15,
+    "download_url": "https://drive.google.com/uc?export=download&id=1Ii02y25MCOilAaQixsZNs1rcgdvNoYCs",
+    "gtfs_rt": null
+  },
+  "pt_Porto-STCP.zip": {
+    "prefix": 16,
+    "download_url": "https://opendata.porto.digital/dataset/5275c986-592c-43f5-8f87-aabbd4e4f3a4/resource/415bf8d5-4c18-40b3-9516-9d9187185ef9/download/gtfs_stcp.zip",
+    "gtfs_rt": null
+  },
+  "pt_Tavira.zip": {
+    "prefix": 17,
+    "download_url": "https://drive.google.com/uc?export=download&id=1C2KBOVsbm__ymWDgU1bXGbP0Gv3D2yo5",
+    "gtfs_rt": null
+  },
+  "pt_Transportes-Urbanos-de-Braga.zip": {
+    "prefix": 18,
+    "download_url": "https://www.tub.pt/developer/gtfs/feed/tub.zip",
+    "gtfs_rt": null
+  }
+}
