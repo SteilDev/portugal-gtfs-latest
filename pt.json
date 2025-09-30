@@ -62,11 +62,6 @@
             "url": "https://drive.google.com/uc?export=download&id=1gah1x10RyFu7gJPweBcCXPd9vcFJFQ7c"
         },
         {
-            "name": "Porto-STCP",
-            "type": "http",
-            "url": "https://opendata.porto.digital/dataset/5275c986-592c-43f5-8f87-aabbd4e4f3a4/resource/415bf8d5-4c18-40b3-9516-9d9187185ef9/download/gtfs_stcp.zip"
-        },
-        {
             "name": "Tavira",
             "type": "http",
             "url": "https://drive.google.com/uc?export=download&id=1C2KBOVsbm__ymWDgU1bXGbP0Gv3D2yo5"
@@ -120,11 +115,6 @@
             "name": "Metro_Sul_do_Tejo",
             "type": "http",
             "url": "https://mts.pt/imt/MTS-20240129.zip"
-        },
-        {
-            "name": "RDL_RODOVIÁRIA_DO_LIS",
-            "type": "http",
-            "url": "https://drive.google.com/uc?export=download&id=1NqcOk8IrlV73TBonJAxpzIUTjaAjF27M"
         },
         {
             "name": "MetroPorto",
