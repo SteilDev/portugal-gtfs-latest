@@ -13,7 +13,6 @@ def download_file(url, filename):
                       "AppleWebKit/537.36 (KHTML, like Gecko) "
                       "Chrome/119.0.0.0 Safari/537.36"
     }
-
     r = requests.get(url, stream=True, timeout=30, verify=certifi.where(), headers=headers)
     r.raise_for_status()
     with open(filename, "wb") as f:

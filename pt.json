@@ -122,14 +122,14 @@
             "url": "https://mts.pt/imt/MTS-20240129.zip"
         },
         {
-            "name": "Metro_do_Porto",
-            "type": "http",
-            "url": "https://www.metrodoporto.pt/metrodoporto/uploads/document/file/693/google_transit_v2.zip"
-        },
-        {
             "name": "RDL_RODOVIÁRIA_DO_LIS",
             "type": "http",
             "url": "https://drive.google.com/uc?export=download&id=1NqcOk8IrlV73TBonJAxpzIUTjaAjF27M"
+        },
+        {
+            "name": "MetroPorto",
+            "type": "http",
+            "url": "https://github.com/SteilDev/metro-porto-gtfs-latest/raw/refs/heads/main/gtfs_metroporto_latest.zip"
         }
     ]
 }
