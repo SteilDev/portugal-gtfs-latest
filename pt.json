@@ -1,0 +1,105 @@
+{
+    "sources": [
+        {
+            "name": "Carris-Metropolitana",
+            "type": "http",
+            "url": "https://api.carrismetropolitana.pt/gtfs"
+        },
+        {
+            "name": "Carris",
+            "type": "http",
+            "url": "https://gateway.carris.pt/gateway/gtfs/api/v2.8/GTFS"
+        },
+        {
+            "name": "Metro-Lisboa",
+            "type": "http",
+            "url": "https://www.metrolisboa.pt/google_transit/googleTransit.zip"
+        },
+        {
+            "name": "Cascais-Próxima",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=13ucYiAJRtu-gXsLa02qKJrGOgDjbnUWX"
+        },
+        {
+            "name": "Comboios-de-Portugal(CP)",
+            "type": "http",
+            "url": "https://publico.cp.pt/gtfs/gtfs.zip"
+        },
+        {
+            "name": "Comboios-de-Portugal(CP)",
+            "type": "url",
+            "spec": "gtfs-rt",
+            "url": "https://rt.gtfs.baguette.pirnet.si/gtfs-rt/cp/trip_updates.pb"
+        },
+        {
+            "name": "Fergatus",
+            "type": "http",
+            "url": "https://www.fertagus.pt/GTFSTMLzip/Fertagus_GTFS.zip"
+        },
+        {
+            "name": "Barreiro",
+            "type": "http",
+            "url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip"
+        },
+        {
+            "name": "Funchal",
+            "type": "http",
+            "url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip"
+        },
+        {
+            "name": "Algarve-Vamus",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1CM8O4ndsfSJhka42SxFUZ9eB-wE10NqX"
+        },
+        {
+            "name": "Transportes-Urbanos-de-Braga",
+            "type": "http",
+            "url": "https://www.tub.pt/developer/gtfs/feed/tub.zip"
+        },
+        {
+            "name": "Autna",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1gah1x10RyFu7gJPweBcCXPd9vcFJFQ7c"
+        },
+        {
+            "name": "Porto-STCP",
+            "type": "http",
+            "url": "https://opendata.porto.digital/dataset/5275c986-592c-43f5-8f87-aabbd4e4f3a4/resource/415bf8d5-4c18-40b3-9516-9d9187185ef9/download/gtfs_stcp.zip"
+        },
+        {
+            "name": "Tavira",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1C2KBOVsbm__ymWDgU1bXGbP0Gv3D2yo5"
+        },
+        {
+            "name": "Portimao",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1Ii02y25MCOilAaQixsZNs1rcgdvNoYCs"
+        },
+        {
+            "name": "Faro",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1xNHjM7yl-SS1jCkGrvIBBlOhUkFfNBjY"
+        },
+        {
+            "name": "Albufeira-Giro",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1tkKV40lQlFcLiJhq8SwZQdxNVjFclRCA"
+        },
+        {
+            "name": "Olhao",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1X5uXAYJ5ItxMhrnDZSz3v9-U3kgL6QbJ"
+        },
+        {
+            "name": "Apanha-me",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1w92h129CWNSoImBRZQOWT6KRPzSFwJ42"
+        },
+        {
+            "name": "Lagos-Aonda",
+            "type": "http",
+            "url": "https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp"
+        }
+    ]
+}
