@@ -2,12 +2,19 @@
 import requests
 import json
 import os
+import certifi
 
 OUTPUT_FILE = "pt_mapping.json"
 
 def download_file(url, filename):
     print(f"Downloading {filename} from {url}")
-    r = requests.get(url, stream=True, timeout=30)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Safari/537.36"
+    }
+
+    r = requests.get(url, stream=True, timeout=30, verify=certifi.where(), headers=headers)
     r.raise_for_status()
     with open(filename, "wb") as f:
         for chunk in r.iter_content(chunk_size=8192):
