@@ -61,38 +61,58 @@
     "download_url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip",
     "gtfs_rt": null
   },
-  "pt_Lagos-Aonda.zip": {
+  "pt_Guimabus.zip": {
     "prefix": 12,
+    "download_url": "https://map.mobility.ubiwhere.com/dataset/ee6d46e4-9f19-4f4a-ab93-1a3cd69df349/resource/08f1ee6c-2d3f-4fb3-a861-5d6fb347a6d4/download/gtfs_gui.zip",
+    "gtfs_rt": null
+  },
+  "pt_Lagos-Aonda.zip": {
+    "prefix": 13,
     "download_url": "https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp",
     "gtfs_rt": null
   },
   "pt_Metro-Lisboa.zip": {
-    "prefix": 13,
+    "prefix": 14,
     "download_url": "https://www.metrolisboa.pt/google_transit/googleTransit.zip",
     "gtfs_rt": null
   },
+  "pt_MetroPorto.zip": {
+    "prefix": 15,
+    "download_url": "https://github.com/SteilDev/metro-porto-gtfs-latest/raw/refs/heads/main/gtfs_metroporto_latest.zip",
+    "gtfs_rt": null
+  },
+  "pt_Metro_Sul_do_Tejo.zip": {
+    "prefix": 16,
+    "download_url": "https://mts.pt/imt/MTS-20240129.zip",
+    "gtfs_rt": null
+  },
+  "pt_Mobiave.zip": {
+    "prefix": 17,
+    "download_url": "https://map.mobility.ubiwhere.com/dataset/fe6015e4-86c7-437a-8d31-10759fe21a1d/resource/7ac67ef8-015c-42e8-9546-f6f0be956270/download/gtfs_vnf.zip",
+    "gtfs_rt": null
+  },
   "pt_Olhao.zip": {
-    "prefix": 14,
+    "prefix": 18,
     "download_url": "https://drive.google.com/uc?export=download&id=1X5uXAYJ5ItxMhrnDZSz3v9-U3kgL6QbJ",
     "gtfs_rt": null
   },
   "pt_Portimao.zip": {
-    "prefix": 15,
+    "prefix": 19,
     "download_url": "https://drive.google.com/uc?export=download&id=1Ii02y25MCOilAaQixsZNs1rcgdvNoYCs",
     "gtfs_rt": null
   },
-  "pt_Porto-STCP.zip": {
-    "prefix": 16,
-    "download_url": "https://opendata.porto.digital/dataset/5275c986-592c-43f5-8f87-aabbd4e4f3a4/resource/415bf8d5-4c18-40b3-9516-9d9187185ef9/download/gtfs_stcp.zip",
+  "pt_TUBA.zip": {
+    "prefix": 20,
+    "download_url": "https://map.mobility.ubiwhere.com/dataset/1842a15c-1aec-4f65-8e29-e57c8b4cbd74/resource/a595ee4b-bf86-4323-b1f4-7e3b3eb00e5e/download/gtfs_bar.zip",
     "gtfs_rt": null
   },
   "pt_Tavira.zip": {
-    "prefix": 17,
+    "prefix": 21,
     "download_url": "https://drive.google.com/uc?export=download&id=1C2KBOVsbm__ymWDgU1bXGbP0Gv3D2yo5",
     "gtfs_rt": null
   },
   "pt_Transportes-Urbanos-de-Braga.zip": {
-    "prefix": 18,
+    "prefix": 22,
     "download_url": "https://www.tub.pt/developer/gtfs/feed/tub.zip",
     "gtfs_rt": null
   }
