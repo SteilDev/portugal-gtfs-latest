@@ -114,6 +114,6 @@ Parsing GTFS feed in 'pt_TUBA.zip' ... done. (16 trips [0.00%], 116 stop times [
 Parsing GTFS feed in 'pt_Tavira.zip' ... done. (16 trips [0.00%], 116 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.06%], 1 agencies [4.55%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Parsing GTFS feed in 'pt_Transportes-Urbanos-de-Braga.zip' ... done. (16 trips [0.00%], 116 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.05%], 1 agencies [4.35%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Removing redundant agencies... done. (-1 agencies [-4.55%])
-Reclustering stops... done. (-11338 clusters) [-39.46%]
+Reclustering stops... done. (-11333 clusters) [-39.44%]
 Removing service duplicates... done. (-31 services [-5.55%])
 Outputting GTFS feed to 'gtfs_portugal_clean.zip'... done.
