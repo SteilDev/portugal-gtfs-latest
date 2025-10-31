@@ -139,12 +139,12 @@ Parsing GTFS feed in 'pt_Transportes-Urbanos-de-Braga.gtfs.zip' ... done. (16 tr
 Removing unreferenced entries... done. (-0 trips [-0.00%], -9 stops [-0.02%], -0 shapes [-0.00%], -5 services [-0.72%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing redundant agencies... done. (-0 agencies [-0.00%])
 Adding parent stations to all stops... done. (+36449 stations)
-Removing redundant stops... done. (-2088 stops [-2.86%])
-Reclustering stops... done. (-13342 clusters) [-38.26%]
+Removing redundant stops... done. (-2089 stops [-2.86%])
+Reclustering stops... done. (-13337 clusters) [-38.25%]
 Removing redundant routes... done. (-171 routes [-7.92%])
 Removing service duplicates... done. (-19 services [-2.75%])
 Removing redundant trips... done. (-10106 trips [-1.40%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1428 services [-15.23%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-7257 services [-91.32%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1603 services [-16.74%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-7282 services [-91.34%])
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_portugal_clean.zip'... done.
