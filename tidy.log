@@ -140,11 +140,11 @@ Removing unreferenced entries... done. (-0 trips [-0.00%], -9 stops [-0.02%], -0
 Removing redundant agencies... done. (-0 agencies [-0.00%])
 Adding parent stations to all stops... done. (+36443 stations)
 Removing redundant stops... done. (-2088 stops [-2.86%])
-Reclustering stops... done. (-13336 clusters) [-38.25%]
+Reclustering stops... done. (-13327 clusters) [-38.22%]
 Removing redundant routes... done. (-190 routes [-8.75%])
 Removing service duplicates... done. (-25 services [-4.46%])
-Removing redundant trips... done. (-20673 trips [-4.24%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -162 services [-0.88%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-17586 services [-96.91%])
+Removing redundant trips... done. (-20672 trips [-4.24%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -296 services [-1.60%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-17587 services [-96.91%])
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_portugal_clean.zip'... done.
