@@ -43,14 +43,14 @@ Outputting GTFS feed to 'pt_CIMRL-Leira.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Carris-Metropolitana.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -342 stops [-2.69%], -0 shapes [-0.00%], -1 services [-0.51%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-4432 clusters) [-35.83%]
-Removing service duplicates... done. (-4 services [-2.03%])
+Reclustering stops... done. (-4429 clusters) [-35.80%]
+Removing service duplicates... done. (-4 services [-2.04%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Carris-Metropolitana.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Carris.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-322 clusters) [-13.79%]
+Reclustering stops... done. (-326 clusters) [-13.96%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Carris.gtfs.zip'... done.
@@ -184,16 +184,16 @@ Parsing GTFS feed in 'pt_Tavira.gtfs.zip' ... done. (16 trips [0.00%], 112 stop 
 Parsing GTFS feed in 'pt_Transportes-Urbanos-de-Braga.gtfs.zip' ... done. (16 trips [0.00%], 112 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.05%], 1 agencies [4.55%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Removing unreferenced entries... done. (-0 trips [-0.00%], -8 stops [-0.03%], -0 shapes [-0.00%], -4 services [-0.74%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing redundant agencies... done. (-0 agencies [-0.00%])
-Adding parent stations to all stops... done. (+12709 stations)
-Removing redundant stops... done. (-604 stops [-1.40%])
-Reclustering stops... done. (-2876 clusters) [-16.10%]
+Adding parent stations to all stops... done. (+12708 stations)
+Removing redundant stops... done. (-608 stops [-1.41%])
+Reclustering stops... done. (-2870 clusters) [-16.07%]
 Removing redundant routes... done. (-192 routes [-10.21%])
-Removing service duplicates... done. (-81 services [-15.03%])
-Minimizing services... done. (-4806 calendar_dates.txt entries [-67.31%], +59 calendar.txt entries [+18.44%])
-Removing redundant trips... done. (-292835 trips [-53.44%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -104174 services [-72.19%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-39744 services [-99.04%])
-Minimizing services... done. (-506 calendar_dates.txt entries [-17.47%], +33 calendar.txt entries [+9.79%])
+Removing service duplicates... done. (-81 services [-15.06%])
+Minimizing services... done. (-4787 calendar_dates.txt entries [-67.24%], +59 calendar.txt entries [+18.44%])
+Removing redundant trips... done. (-301225 trips [-55.27%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -105936 services [-67.30%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-51098 services [-99.25%])
+Minimizing services... done. (-497 calendar_dates.txt entries [-16.77%], +33 calendar.txt entries [+9.76%])
 Computing stable stop ids ... done.
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_portugal_clean.zip'... done.
