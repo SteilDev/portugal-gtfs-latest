@@ -35,9 +35,9 @@ Minimizing ids... done.
 Outputting GTFS feed to 'pt_Barreiro.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Carris-Metropolitana.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -383 stops [-3.00%], -0 shapes [-0.00%], -14 services [-9.79%], -20 routes [-2.09%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-4388 clusters) [-35.48%]
-Removing service duplicates... done. (-15 services [-11.63%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -383 stops [-3.00%], -0 shapes [-0.00%], -14 services [-9.93%], -20 routes [-2.09%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Reclustering stops... done. (-4386 clusters) [-35.47%]
+Removing service duplicates... done. (-15 services [-11.81%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Carris-Metropolitana.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Carris.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
@@ -56,9 +56,9 @@ Minimizing ids... done.
 Outputting GTFS feed to 'pt_Cascais-Pr%C3%B3xima.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Comboios-de-Portugal%28CP%29.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -1 routes [-0.50%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Reclustering stops... done. (-0 clusters) [-0.00%]
-Removing service duplicates... done. (-2045 services [-94.02%])
+Removing service duplicates... done. (-2008 services [-94.32%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Comboios-de-Portugal%28CP%29.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Faro.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
@@ -120,7 +120,7 @@ Outputting GTFS feed to 'pt_Portimao.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Porto-STCP.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-544 clusters) [-21.39%]
+Reclustering stops... done. (-543 clusters) [-21.27%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Porto-STCP.gtfs.zip'... done.
@@ -134,7 +134,7 @@ Outputting GTFS feed to 'pt_Tavira.gtfs.zip'... done.
 Parsing GTFS feed in 'pt_Transportes-Urbanos-de-Braga.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -115 stops [-5.75%], -0 shapes [-0.00%], -3 services [-30.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-259 clusters) [-13.74%]
+Reclustering stops... done. (-258 clusters) [-13.69%]
 Removing service duplicates... done. (-2 services [-28.57%])
 Minimizing ids... done.
 Outputting GTFS feed to 'pt_Transportes-Urbanos-de-Braga.gtfs.zip'... done.
@@ -158,18 +158,18 @@ Parsing GTFS feed in 'pt_Portimao.gtfs.zip' ... done. (16 trips [0.00%], 112 sto
 Parsing GTFS feed in 'pt_Porto-STCP.gtfs.zip' ... done. (16 trips [0.00%], 112 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.05%], 1 agencies [4.76%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Parsing GTFS feed in 'pt_Tavira.gtfs.zip' ... done. (16 trips [0.00%], 112 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.05%], 1 agencies [4.55%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Parsing GTFS feed in 'pt_Transportes-Urbanos-de-Braga.gtfs.zip' ... done. (16 trips [0.00%], 112 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 1 routes [0.05%], 1 agencies [4.35%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
-Removing unreferenced entries... done. (-0 trips [-0.00%], -8 stops [-0.02%], -0 shapes [-0.00%], -4 services [-1.07%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -8 stops [-0.02%], -0 shapes [-0.00%], -4 services [-1.10%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing redundant agencies... done. (-0 agencies [-0.00%])
-Adding parent stations to all stops... done. (+14310 stations)
-Removing redundant stops... done. (-613 stops [-1.29%])
-Reclustering stops... done. (-3457 clusters) [-17.37%]
-Removing redundant routes... done. (-192 routes [-9.88%])
-Removing service duplicates... done. (-53 services [-14.32%])
-Minimizing services... done. (-4164 calendar_dates.txt entries [-88.50%], +75 calendar.txt entries [+35.38%])
-Removing redundant trips... done. (-150101 trips [-36.97%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -42931 services [-50.17%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-42325 services [-99.26%])
-Minimizing services... done. (-143 calendar_dates.txt entries [-17.59%], +16 calendar.txt entries [+5.50%])
+Adding parent stations to all stops... done. (+14326 stations)
+Removing redundant stops... done. (-615 stops [-1.29%])
+Reclustering stops... done. (-3459 clusters) [-17.37%]
+Removing redundant routes... done. (-191 routes [-9.83%])
+Removing service duplicates... done. (-52 services [-14.48%])
+Minimizing services... done. (-4159 calendar_dates.txt entries [-88.60%], +74 calendar.txt entries [+36.45%])
+Removing redundant trips... done. (-145906 trips [-36.20%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -39275 services [-47.97%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-42298 services [-99.28%])
+Minimizing services... done. (-143 calendar_dates.txt entries [-17.76%], +16 calendar.txt entries [+5.71%])
 Computing stable stop ids ... done.
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_portugal_clean.zip'... done.
